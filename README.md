@@ -1,0 +1,1 @@
+Redisign kimflik by aliendroid = https://aliendro.id/video-player-json-kimflix-345 | hasil redesign = https://www.figma.com/proto/YxGS1RfDJV7059Ly2vYoVr/Untitled?node-id=1-291&node-type=canvas&t=g0tKrhneomGbj74x-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A291
